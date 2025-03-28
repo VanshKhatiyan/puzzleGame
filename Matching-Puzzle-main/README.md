@@ -15,4 +15,3 @@ Real-time score tracking to challenge yourself and your friends.
 Clean and responsive design for optimal performance on all devices.
 
 
-https://screenrec.com/share/dPBveofXth
